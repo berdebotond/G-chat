@@ -1,2 +1,2 @@
 # G-chat
-This is a asyncron chat application with tcp/ip connection.
+This is an asyncron chat application with tcp/ip connection.
